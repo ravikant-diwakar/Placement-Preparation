@@ -1,8 +1,9 @@
 # Placement-Preparation
 
 <h2> Aptitude </h2>
-- https://www.indiabix.com/
-- https://prepinsta.com/learn-aptitude/
+https://www.indiabix.com/
+
+https://prepinsta.com/learn-aptitude/
 
 
 <h2> Last Minute Material</h2>
