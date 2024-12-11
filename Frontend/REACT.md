@@ -70,8 +70,11 @@
    - Components are the building blocks of a React application. They are self-contained units that manage their own state and render UI elements. Components can be either class-based or functional.
 
 7. **Differentiate between functional and class components.**
-   - **Class Components:** ES6 classes that extend `React.Component` and can hold local state and lifecycle methods.
-   - **Functional Components:** Simpler components defined as functions. With the introduction of hooks, they can now manage state and side effects.
+   - **Functional Components:**  
+Functional components in React are simple JavaScript functions that accept props as arguments and return JSX to render UI. Initially, they were stateless, but with the introduction of hooks like `useState` and `useEffect`, functional components can now manage state and handle side effects. They are preferred for their simplicity, ease of testing, and less boilerplate code compared to class components.
+
+   - **Class Components:**  
+Class components are ES6 classes that extend `React.Component` and have access to React's lifecycle methods, such as `componentDidMount` and `componentWillUnmount`. They can maintain internal state using `this.state` and update it with `this.setState`. Although class components were widely used in earlier versions of React, they are now less common as functional components with hooks provide a simpler and more concise way to handle state and side effects.
 
 8. **What are props in React?**
    - Props (short for properties) are read-only inputs passed from a parent component to a child component. They allow data to flow down the component tree and are immutable within the receiving component.
