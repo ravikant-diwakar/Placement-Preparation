@@ -117,7 +117,7 @@ Class components are ES6 classes that extend `React.Component` and have access t
       - Lazy loading components and images.
 
 19. **What is React Router, and how does it work?**
-    - React Router is a library that enables navigation among views in a React application. It allows developers to define routes and map them to components, enabling single-page application behavior.
+    - React Router is a library for handling navigation in React applications. It allows you to define routes in your app, so users can navigate between different views without reloading the page. It enables the creation of single-page applications (SPAs), where parts of the page update dynamically based on the URL.
 
 20. **How do you handle forms in React?**
     - Forms in React can be handled by:
