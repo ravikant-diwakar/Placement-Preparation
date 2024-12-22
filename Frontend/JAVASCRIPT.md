@@ -1,4 +1,3 @@
-Sure! Here are the topics with simple explanations and examples:
 
 **1. Closures**  
 A closure is when a function remembers the variables from its outer function even after the outer function has finished running. This means a function can remember and access variables from the place where it was created, even after that place has finished executing.
