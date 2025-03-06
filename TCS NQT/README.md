@@ -1,5 +1,5 @@
 
-## **TCS NQT Important Questions - Batch 2025**  
+## **TCS NQT Important Questions 
 
 ### 📌 **1. Basic Maths Questions**  
 
