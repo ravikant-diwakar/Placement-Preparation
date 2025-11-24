@@ -1,7 +1,8 @@
 # Placement-Preparation
 
 <h2>Resume Format</h2>
-- [x] https://www.overleaf.com/read/skxnnwwdqmfh#b011ad
+
+- [x] Link : </b> https://www.overleaf.com/read/skxnnwwdqmfh#b011ad <br>
 
 <h2> Aptitude </h2>
 
