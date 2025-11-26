@@ -2,7 +2,7 @@
 
 ## Resume Format
 
-- **Link:** [My Resume Template (Overleaf)](https://www.overleaf.com/read/skxnnwwdqmfh#b011ad)
+- [x] **Link:** [My Resume Template (Overleaf)](https://www.overleaf.com/read/skxnnwwdqmfh#b011ad)
 
 <h2> Aptitude </h2>
 
